@@ -283,7 +283,7 @@ nav ul li {
     padding: 40px 200px;
 }
 
-/* contact styles */
+/* Bonus Section: Contact styles */
 .contact {
     /* background: #FFF8F3; */
     background: rgba(255, 144, 14, 0.1);
@@ -321,22 +321,10 @@ input {
     text-decoration: none;
 }
 
-/* Media Queries */
-/* Mobile Devices */
+/* Bonus Section: Media Queries */
+/* For Mobile Devices */
 @media only screen and (max-width: 688px) {
 
-    /* .section-title{
-        margin-left: 10px;
-    }
-    .container{
-        width: 100%;
-    }
-    .players, .blogs, .courses{
-        grid-template-columns: repeat(1, 1fr);
-    }
-    .player, .blog{
-        flex-direction: column;
-    } */
     .container {
         width: 100%;
     }
